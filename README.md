@@ -1,6 +1,4 @@
-# Ola Mundo
- Primeiro repositorio do Git e GitHub
+# Hello World!
+ First Git and GitHub repository
 
- Da aula do Gustavo
-
-editando do repositorio remoto
+ From Gustavo's class
